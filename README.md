@@ -84,4 +84,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🚀 [Asynchronous Programming: The Fetch API And Promises](https://dacostasolomon-codeman.hashnode.dev/asynchronous-programming-the-fetch-api-and-promises)<!-- BLOGPOSTS:END -->
