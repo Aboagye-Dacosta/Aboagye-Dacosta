@@ -84,4 +84,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOGPOSTS:START -->
- - 🚀 [Asynchronous Programming: The Fetch API And Promises](https://dacostasolomon-codeman.hashnode.dev/asynchronous-programming-the-fetch-api-and-promises)<!-- BLOGPOSTS:END -->
+ - 🚀 [Harnessing the Power of the Intersection Observer API for Enhanced Web Performance](https://dacostasolomon-codeman.hashnode.dev/harnessing-the-power-of-the-intersection-observer-api-for-enhanced-web-performance)
+ - 🔥 [Asynchronous Programming: The Fetch API And Promises](https://dacostasolomon-codeman.hashnode.dev/asynchronous-programming-the-fetch-api-and-promises)<!-- BLOGPOSTS:END -->
