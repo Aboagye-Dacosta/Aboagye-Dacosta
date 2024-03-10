@@ -84,6 +84,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOGPOSTS:START -->
- - 🚀 [Unlocking the Power of Intersection Observer: Real-World Examples](https://dacostasolomon-codeman.hashnode.dev/unlocking-the-power-of-intersection-observer-real-world-examples)
- - 🔥 [Harnessing the Power of the Intersection Observer API for Enhanced Web Performance](https://dacostasolomon-codeman.hashnode.dev/harnessing-the-power-of-the-intersection-observer-api-for-enhanced-web-performance)
- - 🚀 [Asynchronous Programming: The Fetch API And Promises](https://dacostasolomon-codeman.hashnode.dev/asynchronous-programming-the-fetch-api-and-promises)<!-- BLOGPOSTS:END -->
+ - 🚀 [Effortless Data Fetching with Axios: Simplifying HTTP Requests](https://dacostasolomon-codeman.hashnode.dev/effortless-data-fetching-with-axios-simplifying-http-requests)
+ - 🔥 [Unlocking the Power of Intersection Observer: Real-World Examples](https://dacostasolomon-codeman.hashnode.dev/unlocking-the-power-of-intersection-observer-real-world-examples)
+ - 🚀 [Harnessing the Power of the Intersection Observer API for Enhanced Web Performance](https://dacostasolomon-codeman.hashnode.dev/harnessing-the-power-of-the-intersection-observer-api-for-enhanced-web-performance)
+ - 💫 [Asynchronous Programming: The Fetch API And Promises](https://dacostasolomon-codeman.hashnode.dev/asynchronous-programming-the-fetch-api-and-promises)<!-- BLOGPOSTS:END -->
