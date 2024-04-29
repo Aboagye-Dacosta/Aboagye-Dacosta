@@ -1,4 +1,4 @@
-# CSS CERTIFICATE
+# PROJECT MANAGEMENT CERTIFICATE
 A `certificate` awarded after I completed a project management program on **Coursera**.
 
 ![alt text](cert-img.jpg)

@@ -1,4 +1,4 @@
-# CSS CERTIFICATE
+# NODE.JS CERTIFICATE
 A `certificate` awarded after I completed a node.js program on **Udemy**.
 
 ![alt text](cert-img.jpg)

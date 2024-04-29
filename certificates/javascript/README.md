@@ -1,4 +1,4 @@
-# CSS CERTIFICATE
+# JAVASCRIPT CERTIFICATE
 A `certificate` awarded after I completed a javascript program on **Udemy**.
 
 ![Javascript beginner cert](cert-img-1.jpg)
